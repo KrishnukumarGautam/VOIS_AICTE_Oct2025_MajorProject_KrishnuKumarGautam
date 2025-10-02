@@ -33,9 +33,11 @@ date_added & release_year → Year of addition for trend analysis
 
 📊 Analysis Objectives
 
-Distribution of Movies vs TV Shows over the years
-Popularity trends of top genres
-Country-wise contribution trends
+Distribution of Movies vs TV Shows over the years.
+
+Popularity trends of top genres.
+
+Country-wise contribution trends.
 
 🖥️ Tools & Technologies
 
