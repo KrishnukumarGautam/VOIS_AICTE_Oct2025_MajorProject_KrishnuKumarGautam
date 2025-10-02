@@ -41,20 +41,30 @@ Country-wise contribution trends.
 
 🖥️ Tools & Technologies
 
-Python 3.x
-Libraries: pandas, numpy, matplotlib, seaborn, plotly
-Environment: Google Colab (supports file upload/download and inline plotting)
+Python 3.x.
+
+Libraries: pandas, numpy, matplotlib, seaborn, plotly.
+
+Environment: Google Colab (supports file upload/download and inline plotting).
 
 📈 Plots & Insights
 
 Movies vs TV Shows Trend
+
 Visualizes the number of Movies and TV Shows added each year
+
 Identifies growth patterns in content type over time
+
 Top Genres Trend
+
 Tracks popularity of top genres (Drama, Comedy, Thriller, etc.)
+
 Helps understand evolving audience preferences
+
 Country-wise Contribution
+
 Displays content contributions from top countries (USA, India, UK, etc.)
+
 Highlights regions with the most content production
 
 ⚠️ Plots are adaptive — they work even if dataset column names or values differ.
@@ -62,25 +72,37 @@ Highlights regions with the most content production
 ✅ Key Findings
 
 Most Netflix content comes from the USA, India, and the UK
+
 Drama, Comedy, and Thriller are consistently top genres
+
 The number of TV Shows has been increasing faster than Movies in recent years
+
 Regional content is growing, showing Netflix’s focus on global expansion
 
 💡 Strategic Recommendations
 
 Strengthen high-demand genres (Drama, Comedy, Thriller)
+
 Invest in underrepresented genres (Documentary, Animation)
+
 Maintain a balanced production of Movies vs TV Shows
+
 Expand region-specific content (India, South Korea, Latin America)
+
 Enhance global reach with subtitles/dubbing
+
 Leverage data-driven decisions using engagement metrics
+
 Experiment with innovative formats (interactive content, short-form series)
 
 ⚙️ How to Use
 
 Upload the Netflix CSV dataset to Colab
+
 Run the provided Python script
+
 View inline plots and download cleaned dataset (netflix_cleaned.csv)
+
 Explore the plots/ folder for all saved visualizations
 
 🔗 Project Structure
@@ -97,11 +119,15 @@ Netflix-Content-Trends-Analysis/
 📌 Notes
 
 Script adapts to variations in column names or dataset inconsistencies
+
 Plots will always render based on available data
+
 Cleaned dataset is saved automatically for further analysis
 
 📚 References
 
 Netflix Dataset (CSV)
+
 Python Libraries: pandas, matplotlib, seaborn, plotly
-Google Colab Documentation: https://colab.research.google.com/
+
+Google Colab Documentation:
