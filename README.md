@@ -1,8 +1,10 @@
 📺 Netflix Content Trends Analysis
+
 Overview
 This project provides a comprehensive analysis of Netflix’s content catalog to uncover trends in Movies vs TV Shows, popular genres, and country-wise contributions. The analysis aims to provide data-driven insights to guide strategic decisions for content acquisition and production.
 
 🎯 Problem Statement
+
 Netflix is a global streaming giant with an ever-growing library of Movies and TV Shows. With rising competition from platforms like Amazon Prime, Disney+, and regional OTT providers, it’s crucial to understand how content distribution has evolved over time.
 Objective:
 Analyze Netflix’s content trends to identify:
@@ -11,6 +13,7 @@ Popular and underrepresented genres
 Country-wise content contributions
 
 🔍 Importance
+
 Understanding these trends helps Netflix:
 Make strategic content acquisition and production decisions
 Identify top-performing genres and categories
@@ -29,6 +32,7 @@ country → Country of origin
 date_added & release_year → Year of addition for trend analysis
 
 📊 Analysis Objectives
+
 Distribution of Movies vs TV Shows over the years
 Popularity trends of top genres
 Country-wise contribution trends
@@ -71,12 +75,14 @@ Leverage data-driven decisions using engagement metrics
 Experiment with innovative formats (interactive content, short-form series)
 
 ⚙️ How to Use
+
 Upload the Netflix CSV dataset to Colab
 Run the provided Python script
 View inline plots and download cleaned dataset (netflix_cleaned.csv)
 Explore the plots/ folder for all saved visualizations
 
 🔗 Project Structure
+
 Netflix-Content-Trends-Analysis/
 ├─ netflix_analysis.ipynb        # Main Colab notebook
 ├─ netflix_cleaned.csv           # Cleaned dataset (after execution)
@@ -87,11 +93,13 @@ Netflix-Content-Trends-Analysis/
 └─ README.md                     # Project documentation
 
 📌 Notes
+
 Script adapts to variations in column names or dataset inconsistencies
 Plots will always render based on available data
 Cleaned dataset is saved automatically for further analysis
 
 📚 References
+
 Netflix Dataset (CSV)
 Python Libraries: pandas, matplotlib, seaborn, plotly
 Google Colab Documentation: https://colab.research.google.com/
