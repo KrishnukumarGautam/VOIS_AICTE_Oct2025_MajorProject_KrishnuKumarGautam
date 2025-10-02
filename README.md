@@ -6,29 +6,45 @@ This project provides a comprehensive analysis of Netflix’s content catalog to
 🎯 Problem Statement
 
 Netflix is a global streaming giant with an ever-growing library of Movies and TV Shows. With rising competition from platforms like Amazon Prime, Disney+, and regional OTT providers, it’s crucial to understand how content distribution has evolved over time.
+
 Objective:
+
 Analyze Netflix’s content trends to identify:
+
 Balance between Movies and TV Shows
+
 Popular and underrepresented genres
+
 Country-wise content contributions
 
 🔍 Importance
 
 Understanding these trends helps Netflix:
+
 Make strategic content acquisition and production decisions
+
 Identify top-performing genres and categories
+
 Expand its global reach while catering to regional audience preferences
 
 📝 Dataset
 
 Source: Netflix Dataset (CSV)
+
 Records: 7,789+
+
 Columns: 11 (Title, Director, Cast, Country, Date Added, Release Year, Rating, Duration, Type, Genre, etc.)
+
 Time Span: 2008 – 2021
+
 Key Columns Used for Analysis:
+
 type → Movie / TV Show
+
 listed_in / genre → Genre categories
+
 country → Country of origin
+
 date_added & release_year → Year of addition for trend analysis
 
 📊 Analysis Objectives
